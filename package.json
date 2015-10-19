@@ -31,7 +31,7 @@
     "webpack-hot-middleware": "2.4.x"
   },
   "scripts": {
-    "start": "node_modules/babel/bin/babel.js devServer.js | node"
+    "dev": "node_modules/babel/bin/babel.js devServer.js | node"
   },
   "author": "robcmills"
 }
